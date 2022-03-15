@@ -35,6 +35,11 @@
 * [Sample SOP for Masters (MS) in Robotics](https://profileevaluation.com/sample-sop-for-masters-ms-in-robotics/)
 * [Sample SOP for Harvard- PhD in Computer Science](https://www.scribd.com/document/273020769/Statement-of-Purpose)
 * [Sample SOP for Cornell(Chem Eng)](https://www.scribd.com/document/185581541/Statement-of-Purpose-cornell)
+* [How to Write a Statement of Purpose for Grad School](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school)
+* []()
+* []()
+* []()
+* []()
 
 ## LOR
 * [LOR samples](https://www.upgradabroad.com/articles/lor-samples/)
@@ -43,8 +48,8 @@
 * [A Guide to effective LOR writing](https://www.greedge.com/sites/default/files/eBooks/lor_samples.pdf)
 * [Tips for LORs](https://ischoolconnect.com/blog/lor-samples-for-ms-in-cs-shared-by-students-who-have-admits/)
 * [Advice to Graduate School Recommendation Letter Writers- Shriram Krishnamurthi](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
-* 
-* []()
+* [THE #1 MOST IMPORTANT SENTENCE IN YOUR GRAD SCHOOL SOP](https://writeivy.com/the-1-most-important-sentence-in-your-grad-school-sop/)
+* [GRAD SCHOOL GUIDES:SAMPLE ADMITTED STUDENTS ESSAYS](https://attachments.convertkitcdnn2.com/591376/f7a1e736-12e6-45d7-bcd5-c2629a767653/Grad%20School%20Guides%20-%20Sample%20Essays.pdf)
 * []()
 * []()
 * []()
@@ -60,7 +65,7 @@
 * [Narotam Sekhsaria Scholarship Program (NSF PG)](https://pg.nsfoundation.co.in/)
 * [Scholarship finder](https://cowyamp.colostate.edu/eere-robotics-internship-program-now-accepting-applications/)
 * [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/): There will be an online challenge after shortlisting your application. 
-* []()
+* 
 * []()
 * []()
 * []()
@@ -75,3 +80,8 @@
 * [Six Examples of Submitted Diversity Statements (redacted)](https://physicalsciences.ucsd.edu/_files/examples-submitted-diversity-statements.pdf)
 * [Kisses of Death in the Graduate School Application Process](https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf)
 * [Applying to STEM Ph.D. Programs](https://github.com/gwisk/gradguide)
+* [How I got into Graduate School-MIT](https://nsidn98.github.io/posts/2020/06/grad_school/)
+
+
+## Random Resumes and websites
+* [Rohan K UCLA guy](https://yorohan2.wixsite.com/rohank)
