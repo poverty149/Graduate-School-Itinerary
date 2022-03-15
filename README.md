@@ -5,6 +5,9 @@
 * [EERE Robotics Internship Program](https://cowyamp.colostate.edu/eere-robotics-internship-program-now-accepting-applications/): Only for US citizens
 * [Summer research program on AUVs and ROVs](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/)
 * [Google Internships](https://buildyourfuture.withgoogle.com/internships/)
+* [Contains a curative list of research opportunities(there are options for graduates as well)](https://spsyale.sites.yale.edu/resources)
+* [JPL NASA internship](https://www.jpl.nasa.gov/edu/intern/apply/)
+
 * []()
 * []()
 
@@ -81,6 +84,7 @@
 * [Kisses of Death in the Graduate School Application Process](https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf)
 * [Applying to STEM Ph.D. Programs](https://github.com/gwisk/gradguide)
 * [How I got into Graduate School-MIT](https://nsidn98.github.io/posts/2020/06/grad_school/)
+* [How I Got Into CMU with A Low GPA | Mechanical to Software Engineering | Ft. Nitish](https://www.youtube.com/watch?v=iv7RXvs71kA)
 
 
 ## Random Resumes and websites
