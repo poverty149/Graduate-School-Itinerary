@@ -68,8 +68,8 @@
 * [Narotam Sekhsaria Scholarship Program (NSF PG)](https://pg.nsfoundation.co.in/)
 * [Scholarship finder](https://cowyamp.colostate.edu/eere-robotics-internship-program-now-accepting-applications/)
 * [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/): There will be an online challenge after shortlisting your application. 
-* 
-* []()
+* [BWH scholarship for women in STEM (Jan-April application)](https://thebhwgroup.com/scholarship)
+* [Society of women engineers scholarship(Dec-Feb)](https://scholarships.swe.org/applications/login.asp)
 * []()
 * []()
 * []()
